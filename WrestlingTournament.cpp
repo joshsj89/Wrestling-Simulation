@@ -50,11 +50,11 @@ public:
 		record.wins = 0;
 		record.loses = 0;
 	}
-	int id;
-	int abilityScore;
 	Record record;
 	int wtClass;
 	int weight;
+	int id;
+	int abilityScore;
 };
 
 class School
